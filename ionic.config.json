@@ -1,0 +1,7 @@
+{
+  "name": "porta",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
